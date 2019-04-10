@@ -2,7 +2,7 @@
 // Insert client ID here.
 const clientId = '58518fcb7e6f4dfa9f8f83f58d40ed71';
 // Add accepted Spotify redirect URIs to Spotify API.
-const redirectUri = 'ludim-jamming-app.surge.sh';
+const redirectUri = 'http://ludim-jamming-app.surge.sh/';
 
 let accessToken;
 
